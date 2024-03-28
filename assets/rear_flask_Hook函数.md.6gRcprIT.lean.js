@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.szLWUyCm.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rear/flask/Hook函数.md","filePath":"rear/flask/Hook函数.md","lastUpdated":null}'),o={name:"rear/flask/Hook函数.md"};function r(s,n,c,l,_,d){return t(),a("div")}const i=e(o,[["render",r]]);export{f as __pageData,i as default};
